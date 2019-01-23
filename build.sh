@@ -1,0 +1,1 @@
+pandoc -o informe.tex -s --bibliography=bibtex.bib Infome.md
